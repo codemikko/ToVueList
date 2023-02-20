@@ -1,16 +1,22 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
-</p>
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+  ![img](https://i.imgur.com/NJzy96b.png)
+
 
 <h3 align="center">react-typescript</h3>
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/tovuelist/The-Documentation-Compendium.svg)](https://github.com/ToVueList/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/ToVueList/The-Documentation-Compendium.svg)](https://github.com/ToVueList/The-Documentation-Compendium/pulls)
-[![License](https://img.shields.io/badge/license-GNU3-blue.svg)](/LICENSE)
+[![Status](https://img.shields.io/badge/status-active-success.svg?style=flat-square)]()
+[![GitHub Issues](https://img.shields.io/github/issues/codemikko/ToVueList.svg)](https://github.com/codemikko/ToVueList/issues?style=flat-square)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/codemikko/ToVueList.svg?style=flat-square)](https://github.com/codemikko/ToVueList/pulls)
+[![License](https://img.shields.io/github/license/codemikko/ToVueList?style=flat-square)](/LICENSE)
+
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/ToVueList/ToVueList/issues" data-color-scheme="no-preference: dark; light: dark_dimmed; dark: dark_high_contrast;" data-icon="octicon-issue-opened" data-size="large" data-show-count="true" aria-label="Issue ToVueList/ToVueList on GitHub">Issue</a>
+
 
 </div>
 
@@ -33,7 +39,7 @@
 
 A simple, minimalistic Todo App I designed & built! It has delightful animations and an intuitive, responsive design, with the ability to mark items as completed or important, edit them, and delete theme. This Todo App also saves your items in local storage!
 
-![img](https://i.imgur.com/NJzy96b.png)
+
 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
