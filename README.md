@@ -13,16 +13,11 @@
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/codemikko/ToVueList.svg?style=flat-square)](https://github.com/codemikko/ToVueList/pulls)
 [![License](https://img.shields.io/github/license/codemikko/ToVueList?style=flat-square)](/LICENSE)
 
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/ToVueList/ToVueList/issues" data-color-scheme="no-preference: dark; light: dark_dimmed; dark: dark_high_contrast;" data-icon="octicon-issue-opened" data-size="large" data-show-count="true" aria-label="Issue ToVueList/ToVueList on GitHub">Issue</a>
-
-
 </div>
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> 
     <br> 
 </p>
 
