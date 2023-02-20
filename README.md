@@ -53,7 +53,7 @@ Once you have cloned the project go into, open your CLI or vsCode open up your T
 
 Then you need too install the dependencies
 ```
-yarn
+npm install
 ```
 
 
